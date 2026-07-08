@@ -13,7 +13,7 @@ Sử dụng RFID,keypad,vân tay AS608 để mở cửa tự động
 | `EventRecorderStub.scvd` | File cấu hình cho công cụ debug Event Recorder của Keil (dùng để ghi log sự kiện theo thời gian thực). |
 | `RFID.uvprojx` | Project file của Keil µVision – chứa tất cả cài đặt dự án, danh sách file, đường dẫn thư viện, tùy chọn biên dịch. |
 | `RFID.uvoptx` | File tùy chọn debug và cấu hình môi trường Keil (ví dụ: cài đặt debugger, breakpoint, cổng COM). |
-| `RFID.uvguix.Admin` / `RFID.uvguix.trumf` | File lưu giao diện người dùng (layout, cửa sổ, vị trí các bảng) của Keil cho từng user (Admin, trumf). |
+
 
 ---
 
